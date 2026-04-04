@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="hero-content">
         <div className="hero-badge">Sr. Data Engineer</div>
         <h1 className="hero-name">
-          Nikhitha <span>Kothakonda</span>
+          Nikhita <span>Kothakonda</span>
         </h1>
         <p className="hero-tagline">
           7+ Years | AWS Redshift · Tableau · Python · Spark · Snowflake
