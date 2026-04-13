@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="hero-content">
-        <div className="hero-badge">Sr. Data Engineer</div>
+        <div className="hero-badge">Sr. Data Analyst</div>
         <h1 className="hero-name">
           Nikhita <span>Kothakonda</span>
         </h1>
@@ -24,7 +24,7 @@ const Hero = () => {
           7+ Years | AWS Redshift · Tableau · Python · Spark · Snowflake
         </p>
         <p className="hero-summary">
-          Data Engineer with expertise in data integration, cloud-based solutions, and BI dashboards.
+          Data Analyst with expertise in data integration, cloud-based solutions, and BI dashboards.
           Delivering optimized data pipelines that drive organizational success.
         </p>
         <div className="hero-contacts">

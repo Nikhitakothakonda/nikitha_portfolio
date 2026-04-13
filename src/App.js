@@ -19,7 +19,7 @@ function App() {
       <Certifications />
       <Contact />
       <footer className="footer">
-        <p>© 2024 Nikhita Kothakonda · Sr. Data Engineer</p>
+        <p>© 2024 Nikhita Kothakonda · Sr. Data Analyst</p>
       </footer>
     </div>
   );

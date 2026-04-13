@@ -3,7 +3,7 @@ import { FaBuilding, FaMapMarkerAlt, FaCalendarAlt, FaChevronDown, FaChevronUp }
 
 const experiences = [
   {
-    role: 'Sr. Data Engineer',
+    role: 'Sr. Data Analyst',
     company: 'Netsmart Technologies',
     location: 'Kansas, USA',
     period: '03/2024 – Present',
@@ -19,7 +19,7 @@ const experiences = [
     ]
   },
   {
-    role: 'Data Engineer',
+    role: 'Data Analyst',
     company: 'US Bank',
     location: 'Minnesota, USA',
     period: '06/2022 – 02/2024',
@@ -34,7 +34,7 @@ const experiences = [
     ]
   },
   {
-    role: 'Data Engineer',
+    role: 'Data Analyst',
     company: 'Caliber Technologies Pvt Ltd',
     location: 'India',
     period: '02/2018 – 08/2021',
